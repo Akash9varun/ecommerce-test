@@ -23,7 +23,7 @@ body {
   font-weight: 400;
   visibility: visible;
   font-family: "Poppins", sans-serif;
-  color: #5a5a5a;
+  color: white;
 }
 
 h1,
@@ -69,7 +69,7 @@ p:last-child {
 }
 a,
 button {
-  color: inherit;
+  color: #f4ae0c;
   line-height: inherit;
   text-decoration: none;
   cursor: pointer;
@@ -117,7 +117,7 @@ ul {
 }
 
 .home_black_version {
-  background: #242424;
+  background: white;
 }
 
 .header_black .header_top {
@@ -391,7 +391,7 @@ ul {
   text-align: center;
   line-height: 45px;
   border: 1px solid #2d2d2d;
-  color: #ffffff;
+  color: #0f0e0e;
   font-size: 20px;
   display: block;
 }
@@ -474,7 +474,7 @@ ul {
   font-size: 20px;
   display: block;
   border: 1px solid #2d2d2d;
-  color: #ffffff;
+  color: #000000;
 }
 
 .header_black .wishlist_btn a:hover {
@@ -531,7 +531,7 @@ ul {
 }
 
 .header_black .cart_link > a {
-  color: #ffffff;
+  color: #000000;
   border: 1px solid #2d2d2d;
 }
 
@@ -739,7 +739,7 @@ ul {
 }
 
 .header_black .sticky-header.sticky {
-  background: rgba(54, 63, 77, 0.9);
+  background: rgb(17, 17, 17);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
 }
 
@@ -885,7 +885,7 @@ ul {
 }
 
 .header_black .main_menu nav > ul > li.active > a {
-  color: #a8741a;
+  color: #f4ae0c;
 }
 
 .header_black .main_menu nav > ul > li:hover > a {
@@ -893,7 +893,7 @@ ul {
 }
 
 .header_black .main_menu nav > ul > li > a {
-  color: #ffffff;
+  color: #f4ae0c;
   font-family: serif;
   font-weight: 400;
   text-transform: capitalize;
@@ -1258,19 +1258,19 @@ ul {
 
 .product_black_section .product_tab_button ul.nav li a {
   border-left: 2px solid #2d2d2d;
-  color: #ffffff;
+  color: #f4ae0c;
   font-family: "Baloo 2", serif;
 }
 
 .product_black_section .product_tab_button ul.nav li a:hover {
-  color: #a8741a;
+  color: #f4ae0c;
 }
 .product_black_section .product_tab_button ul.nav li a.active {
-  color: #a8741a;
+  color: #f4ae0c;
 }
 
 .product_black_section .product_tab_button ul.nav li a.active::before {
-  border: 2px solid #a8741a;
+  border: 2px solid #f4ae0c;
 }
 .product_tab_button {
   margin-bottom: 35px;
@@ -2137,7 +2137,7 @@ p {
   padding-bottom: 61px;
 }
 .footer_black .widgets_container > h3 {
-  color: #fff;
+  color: #f4ae0c;
   font-family: serif;
   font-weight: 400;
   font-size: 25px;
@@ -2229,7 +2229,7 @@ p {
 }
 
 .simple_product_content .product_name h3 a {
-  color: #fff;
+  color: rgb(244, 174, 12);
   font-size: 23px;
 }
 
